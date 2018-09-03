@@ -1,0 +1,6 @@
+framework module Pods_TopPay {
+  umbrella header "Pods-TopPay-umbrella.h"
+
+  export *
+  module * { export * }
+}

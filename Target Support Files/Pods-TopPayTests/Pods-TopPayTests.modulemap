@@ -1,0 +1,6 @@
+framework module Pods_TopPayTests {
+  umbrella header "Pods-TopPayTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
